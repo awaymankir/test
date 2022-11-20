@@ -15,3 +15,8 @@ git status
 ```sh
 git commit -m 'message'
 ```
+### Конец
+
+```sh
+конец инструкции
+```
