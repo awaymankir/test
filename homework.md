@@ -10,3 +10,8 @@ git add 'file name'
 ```sh
 git status
 ```
+## Комментарий к коммиту
+
+```sh
+git commit -m 'message'
+```
